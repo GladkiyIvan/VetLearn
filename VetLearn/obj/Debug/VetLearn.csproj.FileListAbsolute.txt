@@ -1,0 +1,11 @@
+C:\C# projects\VetLearn\VetLearn\bin\Debug\VetLearn.exe.config
+C:\C# projects\VetLearn\VetLearn\bin\Debug\VetLearn.exe
+C:\C# projects\VetLearn\VetLearn\bin\Debug\VetLearn.pdb
+C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.csprojAssemblyReference.cache
+C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.LearnScreen.resources
+C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.Properties.Resources.resources
+C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.StartScreen.resources
+C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.csproj.GenerateResource.cache
+C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.csproj.CoreCompileInputs.cache
+C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.exe
+C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.pdb
