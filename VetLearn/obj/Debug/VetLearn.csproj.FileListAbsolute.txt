@@ -9,3 +9,19 @@ C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.csproj.GenerateResource.cach
 C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.csproj.CoreCompileInputs.cache
 C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.exe
 C:\C# projects\VetLearn\VetLearn\obj\Debug\VetLearn.pdb
+Q:\Projects\VetLearn\VetLearn\bin\Debug\VetLearn.exe.config
+Q:\Projects\VetLearn\VetLearn\bin\Debug\VetLearn.exe
+Q:\Projects\VetLearn\VetLearn\bin\Debug\VetLearn.pdb
+Q:\Projects\VetLearn\VetLearn\obj\Debug\VetLearn.AnswerScreen.resources
+Q:\Projects\VetLearn\VetLearn\obj\Debug\VetLearn.LearnScreen.resources
+Q:\Projects\VetLearn\VetLearn\obj\Debug\VetLearn.Properties.Resources.resources
+Q:\Projects\VetLearn\VetLearn\obj\Debug\VetLearn.StartScreen.resources
+Q:\Projects\VetLearn\VetLearn\obj\Debug\VetLearn.csproj.GenerateResource.cache
+Q:\Projects\VetLearn\VetLearn\obj\Debug\VetLearn.csproj.CoreCompileInputs.cache
+Q:\Projects\VetLearn\VetLearn\obj\Debug\VetLearn.exe
+Q:\Projects\VetLearn\VetLearn\obj\Debug\VetLearn.pdb
+Q:\Projects\VetLearn\VetLearn\bin\Debug\Newtonsoft.Json.dll
+Q:\Projects\VetLearn\VetLearn\bin\Debug\Newtonsoft.Json.pdb
+Q:\Projects\VetLearn\VetLearn\bin\Debug\Newtonsoft.Json.xml
+Q:\Projects\VetLearn\VetLearn\obj\Debug\VetLearn.csproj.CopyComplete
+Q:\Projects\VetLearn\VetLearn\obj\Debug\VetLearn.Screens.AddQuestionScreen.resources
